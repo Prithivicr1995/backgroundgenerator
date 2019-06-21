@@ -1,0 +1,26 @@
+body {
+    background:linear-gradient(to right,rgb(223, 220, 220),rgb(72, 138, 192));
+}
+
+.container{
+    
+    position: relative;
+    top:50px;
+    width: 50%;
+    height:90%;
+    background-color: rgb(177, 223, 187);
+}
+
+ul{
+    margin: 0;
+    text-decoration: none;
+    padding-top: 80px;
+    text-align: center;
+    list-style: none;
+}    
+
+input{
+    
+    display: inline-block;
+    width:100px;
+}
