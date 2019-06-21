@@ -1,0 +1,10 @@
+body{
+    background:linear-gradient(to right,green,orange);
+}
+h1,h2,h3{
+    width:100%;
+    font-family: monospace;
+    color: rgba(0,0,0,.6);
+    text-align: center;
+    text-transform: capitalize;
+}
